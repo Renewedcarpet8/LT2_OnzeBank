@@ -1,0 +1,8 @@
+Bedankt voor uw aanvraag van internet bankieren.
+
+Om uw bankrekening gereed te maken voor internet bankieren moet u de volgende link vullen en op de pagina die daar staat uw gegevens invullen.
+
+voor meer informatie kunt u de bijlage bekijken. Hierin staat ook vermeld hoe u kunt controlleren of deze mail van uw bank afkomstig is.
+
+<a href="<?=HTTP_LINK?>index.php?t=signup.php"><?=HTTP_LINK?>index.php?t=signup.php</a>
+
