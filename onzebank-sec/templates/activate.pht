@@ -1,0 +1,4 @@
+Bedankt voor uw aanvraag van internet bankieren.
+
+Uw bank rekening(Nummer <?=$_REQUEST["reknum"]?>) is gereed gemaakt om geactiveerd te worden voor internet bankieren. Volg de onderstaande link om uw account te activeren.
+<a href="<?=HTTPS_LINK?>index.php?t=activate.php&code=1234567890"><?=HTTPS_LINK?>index.php?t=activate.php&code=1234567890</a>
